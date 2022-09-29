@@ -15,5 +15,7 @@ Note:  If you fund the contract with 0.4 ETH or less and the bot targets another
 Some bot Address use this codes
 
 1- 0xbadc0defafcf6d4239bdf0b66da4d7bd36fcf05a ($1,292,727 profit total)
+
 2- 0x8ed11443414197f6f63e13c77d679f3941e8b522 ($3,794,835 profit total)
+
 3- 0x00000000003b3cc22af3ae1eac0440bcee416b40 ($256,149 profit total)
