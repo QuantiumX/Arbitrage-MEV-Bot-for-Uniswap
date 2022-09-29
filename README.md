@@ -12,7 +12,7 @@ Video >>> https://youtu.be/ErkuKxI9v0A
 
 Note:  If you fund the contract with 0.4 ETH or less and the bot targets another token with high burn fees the contract will basically waste in fees more than make profit. I recommend funding the contract with around 0.5 - 1 ETH just to make sure that won't happen.
 
-Some bot Address use this codes
+Some bot Address use this codes;
 
 1- 0xbadc0defafcf6d4239bdf0b66da4d7bd36fcf05a ($1,292,727 profit total)
 
